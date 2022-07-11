@@ -1,0 +1,1 @@
+# coveo-ci-snapshot-website
